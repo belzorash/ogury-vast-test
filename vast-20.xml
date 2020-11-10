@@ -1,55 +1,58 @@
-This XML file does not appear to have any style information associated with it. The document tree is shown below.
-<VAST xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" version="2.0">
-<Ad id="5055463-3243438">
+<VAST version="2.0">
+<Ad id="1l01dp">
 <InLine>
-<AdSystem>FT</AdSystem>
-<AdTitle>Flashtalking vast template 2.0</AdTitle>
-<Description>2020-10-30 15:16:06</Description>
-<Survey>
-<![CDATA[ ]]>
-</Survey>
+<AdSystem>Innovid Ads</AdSystem>
+<AdTitle>
+<![CDATA[ VEN_MY21_NLV_Downpour_Moment_06_16X9CCVideo_TYTW1440000H ]]>
+</AdTitle>
 <Creatives>
-<Creative sequence="1" AdID="3243438-23019313" id="5055463-3243438-23019313">
+<Creative id="1hgkm4">
 <Linear>
-<Duration>00:00:20</Duration>
+<Duration>00:00:06</Duration>
 <VideoClicks>
 <ClickThrough>
-<![CDATA[ https://servedby.flashtalking.com/click/1/137180;5055463;3243438;211;23019313/?random=1950108301&ft_width=640&ft_height=360&ft_impID=051F4A41-99F3-5D8D-F540-6194BF471F5D&ft_custom=&ft_section=&ft_c1=&ft_c2=&ft_partnerimpid=&ft_partnerid=&gdpr=!!GDPR!&gdpr_consent=!!GDPR_CONSENT_78!&us_privacy=!!US_PRIVACY!&url=https://www.amazon.it/adlp/oralb-io ]]>
+<![CDATA[ https://dts.innovid.com/clktru/action/vclk?project_hash=1h0u2k&client_id=81&video_id=604672&channel_id=2009203&publisher_id=5552&placement_tag_id=0&project_state=2&r=1604984515925&placement_hash=1l01dp&action=clktru&click=https%3A%2F%2Fad.doubleclick.net%2Fddm%2Ftrackclk%2FN2724.3020245OATH.COM%2FB24757887.283178394%3Bdc_trk_aid%3D477440889%3Bdc_trk_cid%3D138454093%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D%24%7BGDPR%7D%3Bgdpr_consent%3D%24%7BGDPR_CONSENT_755%7D ]]>
 </ClickThrough>
 </VideoClicks>
 <MediaFiles>
-<MediaFile id="1" delivery="progressive" type="video/mp4" bitrate="1200" width="1280" height="720">
-<![CDATA[ https://cdn.flashtalking.com/129796/23019313_1280_720_1200_2398.mp4 ]]>
+<MediaFile delivery="progressive" width="1920" height="1080" type="video/mp4" bitrate="22956">
+<![CDATA[ https://s-static.innovid.com/assets/106137/423861/source_106137_423861.mp4 ]]>
 </MediaFile>
-<MediaFile id="2" delivery="progressive" type="video/mp4" bitrate="450" width="1280" height="720">
-<![CDATA[ https://cdn.flashtalking.com/129796/23019313_1280_720_450_3000.mp4 ]]>
+<MediaFile delivery="progressive" width="640" height="360" type="video/mp4" bitrate="800">
+<![CDATA[ https://s-static.innovid.com/media/encoded/09_20/363035/2_source_106141_423906.mp4 ]]>
 </MediaFile>
-<MediaFile id="3" delivery="progressive" type="video/mp4" bitrate="700" width="640" height="360">
-<![CDATA[ https://cdn.flashtalking.com/129796/23019313_640_360_700_3000.mp4 ]]>
+<MediaFile delivery="progressive" width="640" height="360" type="video/mp4" bitrate="400">
+<![CDATA[ https://s-static.innovid.com/media/encoded/09_20/363035/5_source_106141_423906.mp4 ]]>
 </MediaFile>
-<MediaFile id="4" delivery="progressive" type="video/mp4" bitrate="2000" width="640" height="360">
-<![CDATA[ https://cdn.flashtalking.com/129796/23019313_640_360_2000_3000.mp4 ]]>
+<MediaFile delivery="progressive" width="640" height="360" type="video/mp4" bitrate="300">
+<![CDATA[ https://s-static.innovid.com/media/encoded/09_20/363035/6_source_106141_423906.mp4 ]]>
 </MediaFile>
-<MediaFile id="5" delivery="progressive" type="video/mp4" bitrate="4000" width="1280" height="720">
-<![CDATA[ https://cdn.flashtalking.com/129796/23019313_1280_720_4000_3000.mp4 ]]>
+<MediaFile delivery="progressive" width="640" height="360" type="video/mp4" bitrate="700">
+<![CDATA[ https://s-static.innovid.com/media/encoded/09_20/363035/7_source_106141_423906.mp4 ]]>
 </MediaFile>
-<MediaFile id="6" delivery="progressive" type="video/mp4" bitrate="8000" width="1920" height="1080">
-<![CDATA[ https://cdn.flashtalking.com/129796/23019313_1920_1080_8000_3000.mp4 ]]>
+<MediaFile delivery="progressive" width="640" height="360" type="video/mp4" bitrate="400">
+<![CDATA[ https://s-static.innovid.com/media/encoded/09_20/363035/10_source_106141_423906.mp4 ]]>
 </MediaFile>
-<MediaFile id="7" delivery="progressive" type="video/mp4" bitrate="25000" width="1920" height="1080">
-<![CDATA[ https://cdn.flashtalking.com/129796/23019313_1920_1080_25000_3000.mp4 ]]>
+<MediaFile delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="2000">
+<![CDATA[ https://s-static.innovid.com/media/encoded/09_20/363035/11_source_106141_423906.mp4 ]]>
 </MediaFile>
-<MediaFile id="8" delivery="progressive" type="video/mp4" bitrate="600" width="1280" height="720">
-<![CDATA[ https://cdn.flashtalking.com/129796/23019313_1280_720_600_2997.mp4 ]]>
+<MediaFile delivery="progressive" width="640" height="480" type="video/webm" bitrate="800">
+<![CDATA[ https://s-static.innovid.com/media/encoded/09_20/363035/16_source_106141_423906.webm ]]>
 </MediaFile>
-<MediaFile id="9" delivery="progressive" type="video/mp4" bitrate="30000" width="1920" height="1080">
-<![CDATA[ https://cdn.flashtalking.com/129796/23019313_1920_1080_30000_2398.mp4 ]]>
+<MediaFile delivery="progressive" width="1280" height="720" type="video/webm" bitrate="1500">
+<![CDATA[ https://s-static.innovid.com/media/encoded/09_20/363035/17_source_106141_423906.webm ]]>
+</MediaFile>
+<MediaFile delivery="progressive" width="1280" height="960" type="video/webm" bitrate="1500">
+<![CDATA[ https://s-static.innovid.com/media/encoded/09_20/363035/18_source_106141_423906.webm ]]>
+</MediaFile>
+<MediaFile delivery="progressive" width="1920" height="1080" type="video/mp4" bitrate="20000">
+<![CDATA[ https://s-static.innovid.com/media/encoded/09_20/363035/19_source_106141_423906.mp4 ]]>
+</MediaFile>
+<MediaFile delivery="progressive" width="640" height="360" type="video/webm" bitrate="250">
+<![CDATA[ https://s-static.innovid.com/media/encoded/09_20/363035/22_source_106141_423906.webm ]]>
 </MediaFile>
 </MediaFiles>
 </Linear>
-</Creative>
-<Creative sequence="1">
-<CompanionAds/>
 </Creative>
 </Creatives>
 </InLine>
