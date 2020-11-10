@@ -1,0 +1,57 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<VAST xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" version="2.0">
+<Ad id="5055463-3243438">
+<InLine>
+<AdSystem>FT</AdSystem>
+<AdTitle>Flashtalking vast template 2.0</AdTitle>
+<Description>2020-10-30 15:16:06</Description>
+<Survey>
+<![CDATA[ ]]>
+</Survey>
+<Creatives>
+<Creative sequence="1" AdID="3243438-23019313" id="5055463-3243438-23019313">
+<Linear>
+<Duration>00:00:20</Duration>
+<VideoClicks>
+<ClickThrough>
+<![CDATA[ https://servedby.flashtalking.com/click/1/137180;5055463;3243438;211;23019313/?random=1950108301&ft_width=640&ft_height=360&ft_impID=051F4A41-99F3-5D8D-F540-6194BF471F5D&ft_custom=&ft_section=&ft_c1=&ft_c2=&ft_partnerimpid=&ft_partnerid=&gdpr=!!GDPR!&gdpr_consent=!!GDPR_CONSENT_78!&us_privacy=!!US_PRIVACY!&url=https://www.amazon.it/adlp/oralb-io ]]>
+</ClickThrough>
+</VideoClicks>
+<MediaFiles>
+<MediaFile id="1" delivery="progressive" type="video/mp4" bitrate="1200" width="1280" height="720">
+<![CDATA[ https://cdn.flashtalking.com/129796/23019313_1280_720_1200_2398.mp4 ]]>
+</MediaFile>
+<MediaFile id="2" delivery="progressive" type="video/mp4" bitrate="450" width="1280" height="720">
+<![CDATA[ https://cdn.flashtalking.com/129796/23019313_1280_720_450_3000.mp4 ]]>
+</MediaFile>
+<MediaFile id="3" delivery="progressive" type="video/mp4" bitrate="700" width="640" height="360">
+<![CDATA[ https://cdn.flashtalking.com/129796/23019313_640_360_700_3000.mp4 ]]>
+</MediaFile>
+<MediaFile id="4" delivery="progressive" type="video/mp4" bitrate="2000" width="640" height="360">
+<![CDATA[ https://cdn.flashtalking.com/129796/23019313_640_360_2000_3000.mp4 ]]>
+</MediaFile>
+<MediaFile id="5" delivery="progressive" type="video/mp4" bitrate="4000" width="1280" height="720">
+<![CDATA[ https://cdn.flashtalking.com/129796/23019313_1280_720_4000_3000.mp4 ]]>
+</MediaFile>
+<MediaFile id="6" delivery="progressive" type="video/mp4" bitrate="8000" width="1920" height="1080">
+<![CDATA[ https://cdn.flashtalking.com/129796/23019313_1920_1080_8000_3000.mp4 ]]>
+</MediaFile>
+<MediaFile id="7" delivery="progressive" type="video/mp4" bitrate="25000" width="1920" height="1080">
+<![CDATA[ https://cdn.flashtalking.com/129796/23019313_1920_1080_25000_3000.mp4 ]]>
+</MediaFile>
+<MediaFile id="8" delivery="progressive" type="video/mp4" bitrate="600" width="1280" height="720">
+<![CDATA[ https://cdn.flashtalking.com/129796/23019313_1280_720_600_2997.mp4 ]]>
+</MediaFile>
+<MediaFile id="9" delivery="progressive" type="video/mp4" bitrate="30000" width="1920" height="1080">
+<![CDATA[ https://cdn.flashtalking.com/129796/23019313_1920_1080_30000_2398.mp4 ]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+<Creative sequence="1">
+<CompanionAds/>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
