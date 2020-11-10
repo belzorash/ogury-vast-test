@@ -1,0 +1,56 @@
+<VAST xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:noNamespaceSchemaLocation="vast.xsd">
+<Ad id="5063112-3227066">
+<InLine>
+<AdSystem>FT</AdSystem>
+<AdTitle>Flashtalking VAST Template 2.0 - PANDG</AdTitle>
+<Description>2020-11-09 13:27:26</Description>
+<Survey>
+<![CDATA[ ]]>
+</Survey>
+<Creatives>
+<Creative sequence="1" AdID="3227066" id="3227066">
+<Linear>
+<Duration>00:00:20</Duration>
+<VideoClicks>
+<ClickThrough>
+<![CDATA[ https://servedby.flashtalking.com/click/1/137284;5063112;3227066;211;22948379/?random=1491386336&ft_width=1920&ft_height=1080&ft_impID=6C11462F-02BF-9544-205A-94A6763EA426&ft_custom=&ft_section=&ft_c1=&ft_c2=&ft_partnerimpid=&ft_partnerid=&gdpr=!!GDPR!&gdpr_consent=!!GDPR_CONSENT_78!&us_privacy=!!US_PRIVACY!&url=https://www.vicks.it/it-it/scopri-tutti-i-prodotti-vicks/raffreddore-e-tosse-vicks/prima-difesa-spray-nasale?utm_source=prog-allocated&utm_medium=video&utm_campaign=nov20_vicks_primadifesa-prog&utm_content=INAPP_VAST4.1 ]]>
+</ClickThrough>
+</VideoClicks>
+<MediaFiles>
+<MediaFile id="1" delivery="progressive" type="video/mp4" bitrate="1200" width="1280" height="720">
+<![CDATA[ https://cdn.flashtalking.com/132480/22948379_1280_720_1200_2398.mp4 ]]>
+</MediaFile>
+<MediaFile id="2" delivery="progressive" type="video/mp4" bitrate="450" width="1280" height="720">
+<![CDATA[ https://cdn.flashtalking.com/132480/22948379_1280_720_450_3000.mp4 ]]>
+</MediaFile>
+<MediaFile id="3" delivery="progressive" type="video/mp4" bitrate="700" width="640" height="360">
+<![CDATA[ https://cdn.flashtalking.com/132480/22948379_640_360_700_3000.mp4 ]]>
+</MediaFile>
+<MediaFile id="4" delivery="progressive" type="video/mp4" bitrate="2000" width="640" height="360">
+<![CDATA[ https://cdn.flashtalking.com/132480/22948379_640_360_2000_3000.mp4 ]]>
+</MediaFile>
+<MediaFile id="5" delivery="progressive" type="video/mp4" bitrate="4000" width="1280" height="720">
+<![CDATA[ https://cdn.flashtalking.com/132480/22948379_1280_720_4000_3000.mp4 ]]>
+</MediaFile>
+<MediaFile id="6" delivery="progressive" type="video/mp4" bitrate="8000" width="1920" height="1080">
+<![CDATA[ https://cdn.flashtalking.com/132480/22948379_1920_1080_8000_3000.mp4 ]]>
+</MediaFile>
+<MediaFile id="7" delivery="progressive" type="video/mp4" bitrate="25000" width="1920" height="1080">
+<![CDATA[ https://cdn.flashtalking.com/132480/22948379_1920_1080_25000_3000.mp4 ]]>
+</MediaFile>
+<MediaFile id="8" delivery="progressive" type="video/mp4" bitrate="600" width="1280" height="720">
+<![CDATA[ https://cdn.flashtalking.com/132480/22948379_1280_720_600_2997.mp4 ]]>
+</MediaFile>
+<MediaFile id="9" delivery="progressive" type="video/mp4" bitrate="30000" width="1920" height="1080">
+<![CDATA[ https://cdn.flashtalking.com/132480/22948379_1920_1080_30000_2398.mp4 ]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+<Creative sequence="1">
+<CompanionAds/>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
