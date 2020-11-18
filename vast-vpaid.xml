@@ -1,0 +1,21 @@
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast_2.0.1-creativeView.xsd" version="2.0">
+<Ad id="moat_ad">
+<InLine>
+<AdSystem>2.0</AdSystem>
+<AdTitle>Test</AdTitle>
+<Impression/>
+<Creatives>
+<Creative>
+<Linear>
+<Duration>00:00:15</Duration>
+<MediaFiles>
+<MediaFile type="application/javascript" apiFramework="VPAID" height="720" width="1280" delivery="progressive">
+<![CDATA[ https://svastx.moatads.com/oguryvpaid647627293913/moatwrapper.js#vast=https%3a%2f%2fcdn.jsdelivr.net%2fgh%2fjulienpetit%2fiab-omid-verification-client%40master%2fvast%2fvast-mp4-3.xml&level1=%5badvertiser_id%5d&level2=%5bcampaignid%5d&level3=-&level4=-&slicer1=%5bapp_bundle%5d&slicer2=-&pcode=oguryvpaid647627293913&spvb=1&apif=[APIFRAMEWORKS] ]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
