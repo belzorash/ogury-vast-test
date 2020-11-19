@@ -1,0 +1,36 @@
+<VAST version="3.0">
+<Ad>
+<InLine>
+<AdSystem/>
+<AdTitle>
+<![CDATA[ Ogury ]]>
+</AdTitle>
+<Description>
+<![CDATA[ Ogury ]]>
+</Description>
+<Impression>
+<![CDATA[ https://unified.adsafeprotected.com/pixel.png?eyJ0eXBlIjoiU0VDT05EQVJZX0lNUFJFU1NJT04iLCJwdWJsaXNoZXJVdWlkIjoiYTVkYjAyYjAtMmI3OC00OWEzLTg0ZmYtMDA1NTlkNjk3Y2I5Iiwic2l0ZVV1aWQiOiJhZmRkZWY1ZC1jMjA0LTQwYTktYjRmYi05NjVhMTQ1ZDA2OTYiLCJiaWRSZXF1ZXN0Ijp7InNpdGUiOnt9fSwiY3VzdG9tIjp7ImN1c3RvbTEiOiIiLCJjdXN0b20yIjoiMy4wIiwiY3VzdG9tMyI6IjMuMCIsImN1c3RvbTciOiIxNTEyNDQiLCJjdXN0b204IjoiNDQxOTA3NDUiLCJ4c2lkIjoiNGNjMDY1MDYtMWZiNy00Yjc5LWE2NTUtY2RiODJkOTJhZTUyIn0sImhlYWRlcnMiOnsiaGVhZGVyOCI6Imlhc28iLCJoZWFkZXI5IjoiIn0sImNiIjoiMTYwNTc5MTA1MzIxNDUwNTEyMyJ9&key1=ROKU_ADS_APP_ID&key2=$APP_STOREURL ]]>
+</Impression>
+<Creatives>
+<Creative>
+<Linear>
+<Duration>00:00:15</Duration>
+<AdParameters>
+<![CDATA[ {"mediaFiles":[{"type":"application/vnd.apple.mpegurl","uri":"https://medias.presage.io/medias/videos/92ad95b7-5b02-4706-8160-fe4fcce9aa66.mp4-transcoded/playlist.m3u8"},{"type":"video/mp4","uri":"https://medias.presage.io/medias/videos/92ad95b7-5b02-4706-8160-fe4fcce9aa66.mp4-transcoded/offline.mp4"}],"clickThroughUrl":"https://www.ogury.com/","duration":15,"wrapperId":"zvkvfy2j","customDimensions":{"190":"FW","197":"151244","198":"44190745","182":"%2Fias%2Fv1%2Fvpaid.2020.09.17-20.02-b47ca9a.js","188":"lon1","189":"droplet"},"trackingHost":"unified.adsafeprotected.com","plugins":[{"id":"ias","config":{"isMonitoring":"false","partner":"iaso","xmapp":0,"xmtp":"v","xsId":"4cc06506-1fb7-4b79-a655-cdb82d92ae52"}},{"id":"ias.fw","config":{"advEntityId":"151244","pubEntityId":"44190745"}},{"id":"play","config":{"acceptMedia":"^video/"}},{"id":"skip","config":{"acceptMedia":"^video/"}}],"blockedAdTracking":""} ]]>
+</AdParameters>
+<VideoClicks>
+<ClickThrough>
+<![CDATA[ https://www.ogury.com/ ]]>
+</ClickThrough>
+</VideoClicks>
+<MediaFiles>
+<MediaFile delivery="progressive" type="application/javascript" width="0" height="0" apiFramework="VPAID">
+<![CDATA[ https://static.adsafeprotected.com/ias/v1/vpaid.2020.09.17-20.02-b47ca9a.js ]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
