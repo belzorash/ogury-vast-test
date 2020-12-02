@@ -18,28 +18,43 @@
       <Creatives>
         <Creative>
           <UniversalAdId idRegistry="Ogury"> OguryTestAdCertification </UniversalAdId>
-          <Linear skipOffset="00:00:05">
+          <Linear>
             <Duration>
               <![CDATA[ 00:00:15 ]]>
             </Duration>
             <TrackingEvents>
-              <Tracking event="start">
-                <![CDATA[ https://start ]]>
-              </Tracking>
-              <Tracking event="skip">
-                <![CDATA[ https://skip ]]>
-              </Tracking>
               <Tracking event="firstQuartile">
-                <![CDATA[ https://firstQuartile ]]>
+              <![CDATA[ https://firstQuartile ]]>
               </Tracking>
               <Tracking event="midpoint">
-                <![CDATA[ https://midpoint ]]>
+              <![CDATA[ https://midpoint ]]>
               </Tracking>
               <Tracking event="thirdQuartile">
-                <![CDATA[ https://thirdQuartile ]]>
+              <![CDATA[ https://thirdQuartile ]]>
               </Tracking>
               <Tracking event="complete">
-                <![CDATA[ https://complete ]]>
+              <![CDATA[ https://complete ]]>
+              </Tracking>
+              <Tracking event="start">
+              <![CDATA[ https://start ]]>
+              </Tracking>
+              <Tracking event="skip">
+              <![CDATA[ https://skip ]]>
+              </Tracking>
+              <Tracking event="pause">
+              <![CDATA[ https://pause ]]>
+              </Tracking>
+              <Tracking event="resume">
+              <![CDATA[ https://resume ]]>
+              </Tracking>
+              <Tracking event="mute">
+              <![CDATA[ https://mute ]]>
+              </Tracking>
+              <Tracking event="unmute">
+              <![CDATA[ https://unmute ]]>
+              </Tracking>
+              <Tracking event="complete">
+              <![CDATA[ https://complete ]]>
               </Tracking>
             </TrackingEvents>
             <VideoClicks>
@@ -55,15 +70,6 @@
           </Linear>
         </Creative>
       </Creatives>
-      <Extensions>
-        <Extension>
-          <CustomTracking>
-            <Tracking event="skip">
-              <![CDATA[ https://skip ]]>
-            </Tracking>
-          </CustomTracking>
-        </Extension>
-      </Extensions>
     </InLine>
   </Ad>
 </VAST>
