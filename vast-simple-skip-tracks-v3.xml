@@ -1,4 +1,4 @@
-<VAST version="4.1">
+<VAST version="3.0">
   <Ad>
     <InLine>
       <Impression></Impression>
@@ -8,9 +8,6 @@
       </AdTitle>
       <Impression>
         <![CDATA[ https://IMPRESSION ]]>
-      </Impression>
-      <Impression>
-        <![CDATA[ https://IMPRESSION-2 ]]>
       </Impression>
       <Description>
         <![CDATA[ Ogury ]]>
