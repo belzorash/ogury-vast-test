@@ -1,0 +1,42 @@
+<VAST version="3.0">
+  <Ad>
+    <InLine>
+      <AdSystem/>
+      <AdTitle>
+        <![CDATA[ Ogury ]]>
+      </AdTitle>
+      <Description>
+        <![CDATA[ Ogury ]]>
+      </Description>
+      <Impression>
+        <![CDATA[ https://IMPRESSION ]]>
+      </Impression>
+      <Creatives>
+        <Creative>
+          <Linear>
+            <Duration>00:00:15</Duration>
+            <AdParameters>
+              <![CDATA[ {"mediaFiles":[{"type":"application/vnd.apple.mpegurl","uri":"https://medias.presage.io/medias/videos/92ad95b7-5b02-4706-8160-fe4fcce9aa66.mp4-transcoded/playlist.m3u8"},{"type":"video/mp4","uri":"https://medias.presage.io/medias/videos/92ad95b7-5b02-4706-8160-fe4fcce9aa66.mp4-transcoded/offline.mp4"}],"clickThroughUrl":"https://www.ogury.com/","duration":15,"wrapperId":"zvkvfy2j","customDimensions":{"190":"FW","197":"151244","198":"44190745","182":"%2Fias%2Fv1%2Fvpaid.2020.09.17-20.02-b47ca9a.js","188":"lon1","189":"droplet"},"trackingHost":"unified.adsafeprotected.com","plugins":[{"id":"ias","config":{"isMonitoring":"false","partner":"iaso","xmapp":0,"xmtp":"v","xsId":"4cc06506-1fb7-4b79-a655-cdb82d92ae52"}},{"id":"ias.fw","config":{"advEntityId":"151244","pubEntityId":"44190745"}},{"id":"play","config":{"acceptMedia":"^video/"}},{"id":"skip","config":{"acceptMedia":"^video/"}}],"blockedAdTracking":""} ]]>
+            </AdParameters>
+            <VideoClicks>
+              <ClickThrough>
+                <![CDATA[ https://www.ogury.com/ ]]>
+              </ClickThrough>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile delivery="progressive" type="application/javascript" width="0" height="0" apiFramework="VPAID">
+                <![CDATA[ https://static.adsafeprotected.com/ias/v1/vpaid.2020.09.17-20.02-b47ca9a.js ]]>
+              </MediaFile>
+              <MediaFile delivery="progressive" width="1920" height="1080" type="video/mp4" bitrate="9232" scalable="false" maintainAspectRatio="false">
+                <![CDATA[ https://medias.presage.io/medias/videos/92ad95b7-5b02-4706-8160-fe4fcce9aa66.mp4-transcoded/offline.mp4 ]]>
+              </MediaFile>
+              <MediaFile delivery="progressive" width="640" height="360" type="video/mp4" bitrate="401" scalable="false" maintainAspectRatio="false">
+                <![CDATA[ https://medias.presage.io/medias/videos/92ad95b7-5b02-4706-8160-fe4fcce9aa66.mp4-transcoded/offline.mp4 ]]>
+              </MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
