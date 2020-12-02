@@ -26,6 +26,9 @@
               <Tracking event="start">
                 <![CDATA[ https://start ]]>
               </Tracking>
+              <Tracking event="skip">
+                <![CDATA[ https://skip ]]>
+              </Tracking>
               <Tracking event="firstQuartile">
                 <![CDATA[ https://firstQuartile ]]>
               </Tracking>
