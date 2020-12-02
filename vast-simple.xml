@@ -1,0 +1,57 @@
+<VAST version="4.1">
+  <Ad>
+    <InLine>
+      <Impression></Impression>
+      <AdSystem/>
+      <AdTitle>
+        <![CDATA[ Ogury AdCertification VAST ]]>
+      </AdTitle>
+      <Impression>
+        <![CDATA[ https://IMPRESSION ]]>
+      </Impression>
+      <Impression>
+        <![CDATA[ https://IMPRESSION-2 ]]>
+      </Impression>
+      <Description>
+        <![CDATA[ Ogury ]]>
+      </Description>
+      <Creatives>
+        <Creative>
+          <UniversalAdId idRegistry="Ogury"> OguryTestAdCertification </UniversalAdId>
+          <Linear>
+            <Duration>
+              <![CDATA[ 00:00:15 ]]>
+            </Duration>
+            <TrackingEvents>
+              <Tracking event="start">
+                <![CDATA[ https://start ]]>
+              </Tracking>
+              <Tracking event="firstQuartile">
+                <![CDATA[ https://firstQuartile ]]>
+              </Tracking>
+              <Tracking event="midpoint">
+                <![CDATA[ https://midpoint ]]>
+              </Tracking>
+              <Tracking event="thirdQuartile">
+                <![CDATA[ https://thirdQuartile ]]>
+              </Tracking>
+              <Tracking event="complete">
+                <![CDATA[ https://complete ]]>
+              </Tracking>
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickThrough>
+                <![CDATA[ https://www.ogury.com/ ]]>
+              </ClickThrough>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile type="video/mp4" delivery="progressive" width="608" height="1080" bitrate="720">
+                <![CDATA[ https://medias.presage.io/medias/videos/bb9964bd-9187-4867-83b2-7688e9de2dd3.mp4-transcoded/offline.mp4 ]]>
+              </MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
