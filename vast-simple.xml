@@ -38,6 +38,9 @@
               <Tracking event="complete">
                 <![CDATA[ https://complete ]]>
               </Tracking>
+              <Tracking event="skip">
+                <![CDATA[ https://skip ]]>
+              </Tracking>
             </TrackingEvents>
             <VideoClicks>
               <ClickThrough>
