@@ -1,0 +1,71 @@
+<VAST xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" version="3.0">
+  <Ad id="4717348-3258000">
+    <InLine>
+      <AdSystem>FT</AdSystem>
+      <AdTitle>Flashtalking vast template 3.0</AdTitle>
+      <Description>2020-11-12 22:28:57</Description>
+      <Survey/>
+      <Error>
+        <![CDATA[ https://vtrk.doubleverify.com/t/v=1&t=event&tid=ZW-12000000&ec=vast&cid=98e728c9-f951-44fe-8b58-cc2369b2272f&el=https_3A_2F_2Fservedby.flashtalking.com_2Fimp_2F8_2F128258_3B4717348_3B208_3Bxml_3BDBM_3BCENMULTRMULTDALLZNOSEGVVAODDBMMOOVRLYPRSD3MORENOGENDCPMDCMFLASHNSNCTOTNORESVID1530NTAAMRON3POguryCTRPFlashtalking_2F_3Fft_5Fcustom_3D_5F_5F_5F_5F_5F_5F_26ft_5Fsection_3D_26cachebuster_3D_5BCACHEBUSTER_5D&ea=error&cm114=1&cd111=inline&cd117=2&cd190=971108&cd191=128258&cd192=653&cd193=4717348&cd195=1&cd196=3&cd188=nyc1&cd189=droplet&cd182=vpaid-transformer_400.20.16&cd141=7&cd142=_255BTIMESTAMP_255D&cd143=[TIMESTAMP]&cd10=[ERRORCODE]&z=[CACHEBUSTING]/https/tps.doubleverify.com/visit.jpg?ctx=818052&cmp=DV024064&sid=1234&plc=1234&advid=818053&crt=vastError&vasttrkevt=impression&dvp_ctx=971108&dvp_cmp=128258&dvp_sid=653&dvp_plc=4717348&tagtype=video&dvtagver=6.1.img&adsrv=166&dup=98e728c9-f951-44fe-8b58-cc2369b2272f&dvp_zjsver=0.20.16&apifw=7&dvp_psfts=1606927867463&dvp_psfst=ack&vstvr=3.0-i&essd=[SERVERSIDE]&dvp_blk=1&verr=[ERRORCODE] ]]>
+      </Error>
+      <Creatives>
+        <Creative sequence="1" AdID="3258000-0" id="4717348-3258000-0">
+          <Linear>
+            <Duration>00:00:15</Duration>
+            <AdParameters>
+              <![CDATA[ {"mediaFiles":[{"id":"1","delivery":"progressive","type":"video/mp4","bitrate":500,"width":480,"height":360,"uri":"https://cdn.flashtalking.com/100814/QCFB000147VH_79_GOOD_GM_BIV_PLACQ_ENG_35_ACQ_20101072_BOF_1977_CEN_v0_LEARN_500VISA_UN_VIE_NOT_VID15_480_360_500_2997.mp4"},{"id":"2","delivery":"progressive","type":"video/mp4","bitrate":600,"width":640,"height":360,"uri":"https://cdn.flashtalking.com/100814/QCFB000147VH_79_GOOD_GM_BIV_PLACQ_ENG_35_ACQ_20101072_BOF_1977_CEN_v0_LEARN_500VISA_UN_VIE_NOT_VID15_640_360_600_2997.mp4"},{"id":"3","delivery":"progressive","type":"video/mp4","bitrate":2000,"width":1280,"height":720,"uri":"https://cdn.flashtalking.com/100814/QCFB000147VH_79_GOOD_GM_BIV_PLACQ_ENG_35_ACQ_20101072_BOF_1977_CEN_v0_LEARN_500VISA_UN_VIE_NOT_VID15_1280_720_2000_2997.mp4"},{"id":"4","delivery":"progressive","type":"video/mp4","bitrate":700,"width":854,"height":480,"uri":"https://cdn.flashtalking.com/100814/QCFB000147VH_79_GOOD_GM_BIV_PLACQ_ENG_35_ACQ_20101072_BOF_1977_CEN_v0_LEARN_500VISA_UN_VIE_NOT_VID15_854_480_700_2997.mp4"},{"id":"5","delivery":"progressive","type":"video/mp4","bitrate":5000,"width":1920,"height":1080,"uri":"https://cdn.flashtalking.com/100814/QCFB000147VH_79_GOOD_GM_BIV_PLACQ_ENG_35_ACQ_20101072_BOF_1977_CEN_v0_LEARN_500VISA_UN_VIE_NOT_VID15_1920_1080_5000_2997.mp4"},{"id":"6","delivery":"progressive","type":"video/mp4","bitrate":25000,"width":1920,"height":1080,"uri":"https://cdn.flashtalking.com/100814/QCFB000147VH_79_GOOD_GM_BIV_PLACQ_ENG_35_ACQ_20101072_BOF_1977_CEN_v0_LEARN_500VISA_UN_VIE_NOT_VID15_1920_1080_25000_2997.mp4"}],"clickThroughUrl":"https://servedby.flashtalking.com/click/8/128258;4717348;3258000;211;0/?random=1304101979&ft_width=1920&ft_height=1080&ft_impID=AA4BFB58-51C7-B77D-F88B-BA146A9C07DF&ft_custom=______&ft_section=&gdpr=FT_GDPR&gdpr_consent=&us_privacy=FT_US_PRIVACY&url=https://d.agkn.com/pixel/4069/?che=1304101979&aid=12345&cvid=0&col=128258,653,4717348,0,3258000,AA4BFB58-51C7-B77D-F88B-BA146A9C07DF,&l0=https://ad.doubleclick.net/ddm/trackclk/N8667.3042896MV-AOD-DBM/B24283344.274909145;dc_trk_aid=469546063;dc_trk_cid=90614167;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=?https://business.comcast.com/business-choice","duration":15,"customDimensions":{"111":"inline","117":2,"190":"971108","191":"128258","192":"653","193":"4717348","195":"1","196":"3"},"customMetrics":{"114":1},"plugins":[{"id":"dv","config":{"msrapi":"jsVpaid","ctx":"971108","cmp":"128258","sid":"653","plc":"4717348","adsrv":"166","dup":"98e728c9-f951-44fe-8b58-cc2369b2272f","dvp_zjsver":"0.20.16","apifw":"7","dvp_psfts":1606927867463,"dvp_psfst":"ack","vstvr":"3.0-i","blk":"1","dvp_blk":"1"}}],"trackingHost":"vtrk.doubleverify.com","adServingId":"98e728c9-f951-44fe-8b58-cc2369b2272f","wrapperId":"12000000"} ]]>
+            </AdParameters>
+            <VideoClicks>
+              <ClickThrough>
+                <![CDATA[ https://servedby.flashtalking.com/click/8/128258;4717348;3258000;211;0/?random=1304101979&ft_width=1920&ft_height=1080&ft_impID=AA4BFB58-51C7-B77D-F88B-BA146A9C07DF&ft_custom=______&ft_section=&gdpr=FT_GDPR&gdpr_consent=&us_privacy=FT_US_PRIVACY&url=https://d.agkn.com/pixel/4069/?che=1304101979&aid=12345&cvid=0&col=128258,653,4717348,0,3258000,AA4BFB58-51C7-B77D-F88B-BA146A9C07DF,&l0=https://ad.doubleclick.net/ddm/trackclk/N8667.3042896MV-AOD-DBM/B24283344.274909145;dc_trk_aid=469546063;dc_trk_cid=90614167;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=?https://business.comcast.com/business-choice ]]>
+              </ClickThrough>
+              <ClickTracking>
+                <![CDATA[ https://vtrk.doubleverify.com/?v=1&t=event&tid=ZW-12000000&ec=vast&cid=98e728c9-f951-44fe-8b58-cc2369b2272f&el=https%3A%2F%2Fservedby.flashtalking.com%2Fimp%2F8%2F128258%3B4717348%3B208%3Bxml%3BDBM%3BCENMULTRMULTDALLZNOSEGVVAODDBMMOOVRLYPRSD3MORENOGENDCPMDCMFLASHNSNCTOTNORESVID1530NTAAMRON3POguryCTRPFlashtalking%2F%3Fft_custom%3D______%26ft_section%3D%26cachebuster%3D%5BCACHEBUSTER%5D&ea=click&cm114=1&cd111=inline&cd117=2&cd190=971108&cd191=128258&cd192=653&cd193=4717348&cd195=1&cd196=3&cd188=nyc1&cd189=droplet&cd182=vpaid-transformer%400.20.16&cd141=7&cd142=%255BTIMESTAMP%255D&cd143=[TIMESTAMP]&z=[CACHEBUSTING] ]]>
+              </ClickTracking>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile width="480" height="360" type="application/javascript" apiFramework="VPAID" delivery="progressive">
+                <![CDATA[ https://vpaid.doubleverify.com/js/vpaid-transformer/0.20.16/vpaid-transformer-no-csw.js#%7B%22wrapperId%22%3A%2212000000%22%2C%22customDimensions%22%3A%7B%22111%22%3A%22inline%22%2C%22117%22%3A2%2C%22190%22%3A%22971108%22%2C%22191%22%3A%22128258%22%2C%22192%22%3A%22653%22%2C%22193%22%3A%224717348%22%2C%22195%22%3A%221%22%2C%22196%22%3A%223%22%7D%2C%22customMetrics%22%3A%7B%22114%22%3A1%7D%2C%22adServingId%22%3A%2298e728c9-f951-44fe-8b58-cc2369b2272f%22%2C%22trackingHost%22%3A%22vtrk.doubleverify.com%22%7D ]]>
+              </MediaFile>
+              <MediaFile id="1" delivery="progressive" type="video/mp4" bitrate="500" width="480" height="360">
+                <![CDATA[ https://cdn.flashtalking.com/100814/QCFB000147VH_79_GOOD_GM_BIV_PLACQ_ENG_35_ACQ_20101072_BOF_1977_CEN_v0_LEARN_500VISA_UN_VIE_NOT_VID15_480_360_500_2997.mp4 ]]>
+              </MediaFile>
+              <MediaFile id="2" delivery="progressive" type="video/mp4" bitrate="600" width="640" height="360">
+                <![CDATA[ https://cdn.flashtalking.com/100814/QCFB000147VH_79_GOOD_GM_BIV_PLACQ_ENG_35_ACQ_20101072_BOF_1977_CEN_v0_LEARN_500VISA_UN_VIE_NOT_VID15_640_360_600_2997.mp4 ]]>
+              </MediaFile>
+              <MediaFile id="3" delivery="progressive" type="video/mp4" bitrate="2000" width="1280" height="720">
+                <![CDATA[ https://cdn.flashtalking.com/100814/QCFB000147VH_79_GOOD_GM_BIV_PLACQ_ENG_35_ACQ_20101072_BOF_1977_CEN_v0_LEARN_500VISA_UN_VIE_NOT_VID15_1280_720_2000_2997.mp4 ]]>
+              </MediaFile>
+              <MediaFile id="4" delivery="progressive" type="video/mp4" bitrate="700" width="854" height="480">
+                <![CDATA[ https://cdn.flashtalking.com/100814/QCFB000147VH_79_GOOD_GM_BIV_PLACQ_ENG_35_ACQ_20101072_BOF_1977_CEN_v0_LEARN_500VISA_UN_VIE_NOT_VID15_854_480_700_2997.mp4 ]]>
+              </MediaFile>
+              <MediaFile id="5" delivery="progressive" type="video/mp4" bitrate="5000" width="1920" height="1080">
+                <![CDATA[ https://cdn.flashtalking.com/100814/QCFB000147VH_79_GOOD_GM_BIV_PLACQ_ENG_35_ACQ_20101072_BOF_1977_CEN_v0_LEARN_500VISA_UN_VIE_NOT_VID15_1920_1080_5000_2997.mp4 ]]>
+              </MediaFile>
+              <MediaFile id="6" delivery="progressive" type="video/mp4" bitrate="25000" width="1920" height="1080">
+                <![CDATA[ https://cdn.flashtalking.com/100814/QCFB000147VH_79_GOOD_GM_BIV_PLACQ_ENG_35_ACQ_20101072_BOF_1977_CEN_v0_LEARN_500VISA_UN_VIE_NOT_VID15_1920_1080_25000_2997.mp4 ]]>
+              </MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+        <Creative sequence="1">
+          <CompanionAds/>
+        </Creative>
+      </Creatives>
+      <Extensions>
+        <Extension type="AdVerifications">
+          <AdVerifications>
+            <Verification vendor="doubleverify.com-omid">
+              <JavaScriptResource apiFramework="omid" browserOptional="true">
+                <![CDATA[ https://cdn.doubleverify.com/dvtp_src.js?vendor_key=doubleverify.com-omid ]]>
+              </JavaScriptResource>
+              <VerificationParameters>
+                <![CDATA[ dummy=dummy&tagtype=video&dvtagver=6.1.src&msrapi=jsOmid&ctx=971108&cmp=128258&sid=653&plc=4717348&adsrv=166&dup=98e728c9-f951-44fe-8b58-cc2369b2272f&dvp_zjsver=0.20.16&apifw=7&dvp_psfts=1606927867463&dvp_psfst=ack&vstvr=3.0-i&dvp_blk=1 ]]>
+              </VerificationParameters>
+            </Verification>
+          </AdVerifications>
+        </Extension>
+      </Extensions>
+    </InLine>
+  </Ad>
+</VAST>
