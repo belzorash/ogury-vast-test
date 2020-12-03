@@ -1,0 +1,47 @@
+<VAST version="2.0">
+  <Ad id="1kn3m1">
+    <InLine>
+      <AdSystem>
+        <![CDATA[ Innovid Ads ]]>
+      </AdSystem>
+      <AdTitle>
+        <![CDATA[ YHTFD59T130H_GiftGiving_HDHome_40pOff_15 ]]>
+      </AdTitle>
+      <Creatives>
+        <Creative id="1hf9b2">
+          <Linear>
+            <Duration>00:00:15</Duration>
+            <AdParameters>
+              <![CDATA[ {"mediaFiles":[{"delivery":"progressive","type":"video/mp4","bitrate":15317,"width":1920,"height":1080,"uri":"https://s-static.innovid.com/assets/107211/446689/source_107211_446689.mp4"},{"delivery":"progressive","type":"video/mp4","bitrate":400,"width":640,"height":360,"uri":"https://s-static.innovid.com/media/encoded/11_20/379116/5_source_107211_446689.mp4"},{"delivery":"progressive","type":"video/mp4","bitrate":2000,"width":1280,"height":720,"uri":"https://s-static.innovid.com/media/encoded/11_20/379116/11_source_107211_446689.mp4"},{"delivery":"progressive","type":"video/mp4","bitrate":4000,"width":1920,"height":1080,"uri":"https://s-static.innovid.com/media/encoded/11_20/379116/13_source_107211_446689.mp4"},{"delivery":"progressive","type":"video/webm","bitrate":800,"width":640,"height":480,"uri":"https://s-static.innovid.com/media/encoded/11_20/379116/16_source_107211_446689.webm"}],"clickThroughUrl":"https://dts.innovid.com/clktru/action/vclk?project_hash=1guh6f&client_id=2808&video_id=630111&channel_id=2047369&publisher_id=421&placement_tag_id=0&project_state=2&r=1607002397772&placement_hash=1kn3m1&device_id=&action=clktru&click=https%3A%2F%2Fad.doubleclick.net%2Fddm%2Ftrackclk%2FN7310.468584.AMNETGROUPINC.%2FB24753149.284497303%3Bdc_trk_aid%3D481630596%3Bdc_trk_cid%3D141376196%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D","duration":15,"wrapperId":"zvkvfy2j","customDimensions":{"190":"FW","197":"510457","198":"50126181","182":"%2Fias%2Fv1%2Fvpaid.2020.11.19-20.09-eb7087c.js","188":"lon1","189":"droplet"},"trackingHost":"unified.adsafeprotected.com","plugins":[{"id":"ias","config":{"apiframeworks":"7","bundleId":"[BUNDLEID]","isMonitoring":"false","mon":"50126182","omidPartner":"[OMIDPARTNER]","partner":"iaso","xmapp":0,"xmtp":"v","xsId":"8f1f926d-dcce-4f46-a98b-4b0c92fa813b"}},{"id":"ias.fw","config":{"advEntityId":"510457","pubEntityId":"50126181"}},{"id":"play","config":{"acceptMedia":"^video/"}},{"id":"skip","config":{"acceptMedia":"^video/"}}],"blockedAdTracking":"","ias_singletag":true,"ias_singletag_outcome":1} ]]>
+            </AdParameters>
+            <VideoClicks>
+              <ClickThrough>
+                <![CDATA[ https://dts.innovid.com/clktru/action/vclk?project_hash=1guh6f&client_id=2808&video_id=630111&channel_id=2047369&publisher_id=421&placement_tag_id=0&project_state=2&r=1607002397772&placement_hash=1kn3m1&device_id=&action=clktru&click=https%3A%2F%2Fad.doubleclick.net%2Fddm%2Ftrackclk%2FN7310.468584.AMNETGROUPINC.%2FB24753149.284497303%3Bdc_trk_aid%3D481630596%3Bdc_trk_cid%3D141376196%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D ]]>
+              </ClickThrough>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile delivery="progressive" type="application/javascript" width="1920" height="1080" apiFramework="VPAID">
+                <![CDATA[ https://static.adsafeprotected.com/ias/v1/vpaid.2020.11.19-20.09-eb7087c.js ]]>
+              </MediaFile>
+              <MediaFile delivery="progressive" type="video/mp4" bitrate="15317" width="1920" height="1080">
+                <![CDATA[ https://s-static.innovid.com/assets/107211/446689/source_107211_446689.mp4 ]]>
+              </MediaFile>
+              <MediaFile delivery="progressive" type="video/mp4" bitrate="400" width="640" height="360">
+                <![CDATA[ https://s-static.innovid.com/media/encoded/11_20/379116/5_source_107211_446689.mp4 ]]>
+              </MediaFile>
+              <MediaFile delivery="progressive" type="video/mp4" bitrate="2000" width="1280" height="720">
+                <![CDATA[ https://s-static.innovid.com/media/encoded/11_20/379116/11_source_107211_446689.mp4 ]]>
+              </MediaFile>
+              <MediaFile delivery="progressive" type="video/mp4" bitrate="4000" width="1920" height="1080">
+                <![CDATA[ https://s-static.innovid.com/media/encoded/11_20/379116/13_source_107211_446689.mp4 ]]>
+              </MediaFile>
+              <MediaFile delivery="progressive" type="video/webm" bitrate="800" width="640" height="480">
+                <![CDATA[ https://s-static.innovid.com/media/encoded/11_20/379116/16_source_107211_446689.webm ]]>
+              </MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
