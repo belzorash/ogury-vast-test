@@ -3,7 +3,7 @@
 <InLine>
 <AdSystem version="1.0">PlayTime</AdSystem>
 <AdTitle>meetricswrapperv9-requiresVpaidJavaScript</AdTitle>
-<Impression id="meetrics">about:blank</Impression>
+<Impression id="meetrics"></Impression>
 <Creatives>
 <Creative id="meetricswrapper">
 <Linear>
