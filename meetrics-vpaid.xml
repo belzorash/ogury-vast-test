@@ -18,7 +18,7 @@
 </VideoClicks>
 <MediaFiles>
 <MediaFile delivery="progressive" apiFramework="VPAID" width="640" height="360" type="application/javascript">
-<![CDATA[ https://s418.mxcdn.net/bb-serve/vpaid_js/VPAID-JS.js ]]>
+<![CDATA[ https://cdn.jsdelivr.net/gh/belzorash/ogury-vast-test@main/meetrics-vpaid.js ]]>
 </MediaFile>
 </MediaFiles>
 </Linear>
