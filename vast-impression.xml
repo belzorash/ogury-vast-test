@@ -3,7 +3,6 @@
 <InLine>
 <AdSystem>DCM</AdSystem>
 <AdTitle>In-Stream Video</AdTitle>
-<AdParameters></AdParameters>
 <Impression>
 <![CDATA[ https://google.Fr ]]>
 </Impression>
@@ -32,6 +31,9 @@
 </Icon>
 </Icons>
 <Duration>00:00:30</Duration>
+<AdParameters>
+<![CDATA[]]>
+</AdParameters>
 <MediaFiles>
 <MediaFile width="1920" height="1080" type="application/javascript" apiFramework="VPAID" delivery="progressive">
 <![CDATA[ https://vpaid.doubleverify.com/js/vpaid-transformer/0.20.16/vpaid-transformer-no-csw.js#%7B%22wrapperId%22%3A%2212000000%22%2C%22customDimensions%22%3A%7B%22111%22%3A%22inline%22%2C%22117%22%3A3%2C%22190%22%3A%2210286319%22%2C%22191%22%3A%2224879609%22%2C%22192%22%3A%224313501%22%2C%22193%22%3A%22285229280%22%2C%22195%22%3A%221%22%2C%22196%22%3A%223%22%7D%2C%22customMetrics%22%3A%7B%22114%22%3A1%7D%2C%22adServingId%22%3A%222c713dec-b802-4c2a-a761-e7e39e213dde%22%2C%22trackingHost%22%3A%22vtrk.doubleverify.com%22%7D ]]>
