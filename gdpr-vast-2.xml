@@ -14,11 +14,7 @@
         <JavaScriptResource apiFramework="omid" browserOptional="true">
           <![CDATA[https://z.moatads.com/oguryvpaid647627293913/moatvideo.js]]>
         </JavaScriptResource>
-        <VerificationParameters>
-            <![CDATA[{\"moatClientLevel1\":\"{CAMPAIGN_ID}\",\"moatClientLevel2\":\"{LINEITEM_ID}\",\"moatClientLevel3\":\"{SITE_ID}\",\"moatClientLevel4\":\"{CREATIVE_ID}\",\"moatClientSlicer1\":\"{NET_ID}\",\"moatClientSlicer2\":\"{PLACEMENT_GROUP_ID}\",\"zMoatPLID\":\"{PLACEMENT_ID}\",\"gdpr\":\"${GDPR}\",\"gdpr_consent\":\"${GDPR_CONSENT_772}\"}]]>
-        </VerificationParameters>
-      </Verification>
-    </AdVerifications>
+<VerificationParameters><![CDATA[{"moatClientLevel1":"[advertiser_id]","moatClientLevel2":"[io_id]","moatClientLevel3":"[campaignid]","moatClientSlicer1":"[app_bundle]","moatClientSlicer2":"[sdk]","gdpr":"[GDPR]","gdpr_consent":"[GDPR_CONSENT_772]"}]]></VerificationParameters>    </AdVerifications>
   </Wrapper>
 </Ad>
 </VAST>
