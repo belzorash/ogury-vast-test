@@ -1,0 +1,27 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast_2.0.1-creativeView.xsd" version="4.1">
+<Ad id="WrapperAdWrapper">
+  <Wrapper>
+    <AdSystem>WrapperAdSystem</AdSystem>
+    <Impression>
+      <![CDATA[https://px.moatads.com/pixel.gif?pingImpressionWrapper]]>
+    </Impression>
+    <VASTAdTagURI>
+      <![CDATA[https://cdn.jsdelivr.net/gh/Jean-SebK/oguryadcertification@main/vast-4.1-v4.xml]]>
+    </VASTAdTagURI>
+    <AdVerifications>
+      <Verification vendor="moat.com-oguryvpaid647627293913">
+        <JavaScriptResource apiFramework="omid" browserOptional="true">
+          <![CDATA[https://z.moatads.com/oguryvpaid647627293913/moatvideo.js]]>
+        </JavaScriptResource>
+        <VerificationParameters>
+            <![CDATA[{\"moatClientLevel1\":\"{CAMPAIGN_ID}\",\"moatClientLevel2\":\"{LINEITEM_ID}\",\"moatClientLevel3\":\"{SITE_ID}\",\"moatClientLevel4\":\"{CREATIVE_ID}\",\"moatClientSlicer1\":\"{NET_ID}\",\"moatClientSlicer2\":\"{PLACEMENT_GROUP_ID}\",\"zMoatPLID\":\"{PLACEMENT_ID}\",\"gdpr\":\"${GDPR}\",\"gdpr_consent\":\"${GDPR_CONSENT_772}\"}]]>
+        </VerificationParameters>
+      </Verification>
+    </AdVerifications>
+  </Wrapper>
+</Ad>
+</VAST>
+
+
