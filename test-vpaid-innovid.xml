@@ -1,0 +1,25 @@
+<VAST version="2.0">
+<Ad id="16bpgo">
+<InLine>
+<AdSystem>Innovid Ads</AdSystem>
+<AdTitle>
+<![CDATA[ Bounty_PGBN5341000H_15 ]]>
+</AdTitle>
+<Impression>
+<![CDATA[ about:blank ]]>
+</Impression>
+<Creatives>
+<Creative>
+<Linear>
+<Duration>00:00:15</Duration>
+<MediaFiles>
+<MediaFile delivery="progressive" width="16" height="9" type="application/javascript" apiFramework="VPAID">
+https://s-static.innovid.com/mobileapps/s/js/vpaid/16bpgo?cb=1047cd0d-cb5f-e63c-2bc1-61dc71caa413&deviceid=&ivc=ivc_deviceid_raw%3D%2525%2525TTD_DEVICEID%2525%2525%26ivc_inapp_optout%3D%2525%2525TTD_NIELSEN_INAPP_OPT_OUT%2525%2525%26ivc_transaction%3D%2525%2525TTD_IMPRESSIONID%2525%2525%26ivc_creativeid%3D%2525%2525TTD_CREATIVEID%2525%2525%26ivc_placementid%3D%2525%2525TTD_ADGROUPID%2525%2525%26ivc_dealid%3D%2525%2525TTD_DEALID%2525%2525%26ivc_publisherid%3D%2525%2525TTD_PUBLISHERID%2525%2525%26ivc_site%3D%2525%2525TTD_SITE%2525%2525%26ivc_supplyvendor%3D%2525%2525TTD_SUPPLYVENDOR%2525%2525%26ivc_campaignid%3D%2525%2525TTD_CAMPAIGNID%2525%2525%26ivc_dsp%3Dttd%26ivc_ttdimpid%3D%2525%2525TTD_IMPRESSIONID%2525%2525%26ivc_ttdid%3D%2525%2525TTD_TDID%2525%2525%26ivc_signalid%3D%2525%2525TTD_DCO_MAPPINGRULE_MACRO%2525%2525%26ivc_ttd_dco_mappingrule_macro%3D%2525%2525TTD_DCO_MAPPINGRULE_MACRO%2525%2525%26ivc_ttd_mappingrule_single_output%3D%2525%2525TTD_DCO_MAPPINGRULE_SINGLE_OUTPUT%2525%2525%26dipn%3Ddeviceid%26deviceid%3D%2525%2525TTD_DEVICEID%2525%2525%26ivc_deviceid_raw%3D%2525%2525TTD_DEVICEID%2525%2525%26ivfvuk%3D1%26iv_geo_dma%3D%26iv_geo_country%3DFR%26iv_geo_city%3DStrasbourg%26iv_geo_state%3D67%26iv_geo_zip%3D67000%26iv_geo_lat%3D48.5855%26iv_geo_lon%3D7.7418%26
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
